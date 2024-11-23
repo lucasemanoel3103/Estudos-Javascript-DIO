@@ -1,5 +1,5 @@
 
-const pokeApi = {}
+const pokeApi = {} 
 
 function convertPokeApiDetailToPokemon(pokeDetail) {
     const pokemon = new Pokemon()
